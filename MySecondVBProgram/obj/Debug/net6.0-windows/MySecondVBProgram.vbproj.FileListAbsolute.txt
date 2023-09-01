@@ -1,0 +1,16 @@
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.Form1.resources
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.vbproj.GenerateResource.cache
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.AssemblyInfoInputs.cache
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.AssemblyInfo.vb
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.vbproj.CoreCompileInputs.cache
+C:\Users\Mypc\source\repos\MySecondVBProgram\bin\Debug\net6.0-windows\MySecondVBProgram.exe
+C:\Users\Mypc\source\repos\MySecondVBProgram\bin\Debug\net6.0-windows\MySecondVBProgram.deps.json
+C:\Users\Mypc\source\repos\MySecondVBProgram\bin\Debug\net6.0-windows\MySecondVBProgram.runtimeconfig.json
+C:\Users\Mypc\source\repos\MySecondVBProgram\bin\Debug\net6.0-windows\MySecondVBProgram.dll
+C:\Users\Mypc\source\repos\MySecondVBProgram\bin\Debug\net6.0-windows\MySecondVBProgram.pdb
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.dll
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\refint\MySecondVBProgram.dll
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.pdb
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\MySecondVBProgram.genruntimeconfig.cache
+C:\Users\Mypc\source\repos\MySecondVBProgram\obj\Debug\net6.0-windows\ref\MySecondVBProgram.dll
